@@ -7,3 +7,9 @@
 - サンプルソース
   - [書籍記載のサンプルソース](https://github.com/josdirksen/learning-threejs)
   - [オライリーサポート](https://github.com/oreilly-japan/learning-three-js-2e-ja-support)
+
+## 動作環境
+```
+npm install http-server
+http-server . -p 8000
+```
